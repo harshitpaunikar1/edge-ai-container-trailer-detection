@@ -40,3 +40,7 @@
 
 - Task summary: Late-night fix: re-ran the plots with better axis labels and a more readable color palette.
 - Deliverable: Should've caught it earlier but better now than later.
+## 2025-01-28 - Day 6: Architecture
+
+- Task summary: Came back after lunch and realized the output formatting looked messy when printed, so added a cleaner display block.
+- Deliverable: Minor but worth doing.
