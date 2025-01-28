@@ -36,3 +36,7 @@
 
 - Task summary: Late-night fix: went back and reorganized the config section so values are not buried mid-script.
 - Deliverable: Should've caught it earlier but better now than later.
+## 2025-01-28 - Day 6: Architecture
+
+- Task summary: Late-night fix: re-ran the plots with better axis labels and a more readable color palette.
+- Deliverable: Should've caught it earlier but better now than later.
