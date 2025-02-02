@@ -60,3 +60,7 @@
 
 - Task summary: Late-night fix: fixed a type coercion issue that was causing silent NaN propagation downstream.
 - Deliverable: Should've caught it earlier but better now than later.
+## 2025-02-02 - Day 9: Interactions
+
+- Task summary: Saturday morning — couldn't stop thinking about the edge case from Friday. Opened the notebook and patched it before I forgot.
+- Deliverable: Minor but worth doing.
