@@ -62,7 +62,7 @@
 - Deliverable: Should've caught it earlier but better now than later.
 ## 2025-02-02 - Day 9: Interactions
 
-- Task summary: Saturday morning — couldn't stop thinking about the edge case from Friday. Opened the notebook and patched it before I forgot.
+- Task summary: Saturday morning - couldn't stop thinking about the edge case from Friday. Opened the notebook and patched it before I forgot.
 - Deliverable: Minor but worth doing.
 ## 2025-02-03 - Day 10: Artifacts
 
@@ -70,7 +70,7 @@
 - Deliverable: Ended the day with support visuals in hand, plus a few side notes on what still needed fixing later. I also left myself a few rough reminders for the next day so I would not have to rediscover the same context again.
 ## 2025-02-03 - Day 10: Artifacts
 
-- Task summary: Got stuck mid-afternoon and had to regroup — updated the requirements file — had missed one indirect dependency.
+- Task summary: Got stuck mid-afternoon and had to regroup - updated the requirements file - had missed one indirect dependency.
 - Deliverable: Cleaner than this morning's version.
 ## 2025-02-04 - Day 11: README check
 
